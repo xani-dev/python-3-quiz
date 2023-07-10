@@ -27,7 +27,7 @@ test()
 
 Output:
 ```
-Invalid mileage:  32.13
+Invalid first name: 'B1ll'
 ```
 
 - This tests your ability to read files, select the correct data, manipulate strings and use Exceptions in python.
