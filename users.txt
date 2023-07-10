@@ -1,0 +1,11 @@
+FIRSTNAME, LASTNAME, USERNAME, POSTS, LIKES, GAMEREWARDS
+Elon, Musk, EMuskrat, 14013, 1592, 12
+Sundar, Pichai, SPichai, 2891, 578, 21
+Satya, Nadella, SNadella, 452, 97, 9
+Jeff, Bezos, JBezos, 762, 275, 13
+B1ll, Gates, BGates, 1245, 431, 17
+Mark, Zuckerberg, MZuckerberg, 536, 194, 8
+T1m, C00k, TCook, 654, 238, 11
+Grace, Hopper, GHopper, 723, 289, 14
+Ada, Lovelace, ALovelace, 514, 187, 9
+R3shma, Saujani, RSaujani, 201, 83, 4
